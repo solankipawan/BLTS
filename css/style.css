@@ -8275,7 +8275,7 @@ h1, h2, h3, h4, h5,
     right: -25px; }
   .owl-carousel.home-slider {
     position: relative;
-    height: 750px;
+    height: 630px;
     z-index: 0; }
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
